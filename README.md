@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AKSHAT3008
 - 👀 I’m interested in Programming and playing games
-- 🌱 I’m currently learning python, c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python, c++, Reacjs and kotlin.
+- 💞️ I’m looking to collaborate on web dev projects mainly.
 - 📫 How to reach me Phone no.- +918127515450 email-ajak30082002@gmail.com linkedin-www.linkedin.com/in/akshat-jain-bb66a5213
 
 
